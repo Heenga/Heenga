@@ -18,7 +18,7 @@
 
 <img align="left" title="Lua" alt="Lua" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />
 
-<img align="left" title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" title="HTML5" alt="HTML5" width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fbaixar%2Fhtml.html&psig=AOvVaw3ZsJbNXrd5xFTdqhoyyMSV&ust=1628071107834000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNjJj9TLlPICFQAAAAAdAAAAABAD" />
 
 <img align="left" title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
