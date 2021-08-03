@@ -1,4 +1,4 @@
-<h1> Hi <img src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif" width="50" /> What's up?</h1>
+<h1> Hey <img src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif" width="50" /> What's up?</h1>
 
 
 <p> Hello, I'm Henga, I'm a Front-end developer and Lua student. Always improving my knowledge .. <img src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif" width="13" /> <b>Brazil, Belo Horizonte</b>.
