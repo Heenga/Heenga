@@ -4,11 +4,10 @@
 <p> I'm Henrique "Henga" Valicente, I'm a HTML, CSS3 and JavaScript student. Always studying to improve my knowledge .. <p>
 
 ## About me
-- 📍  From - Brazil, Belo Horizonte.
-- ✨ I've been in the programming world since 2020.
-- 📚 I am currently learning Lua, Css3, Html5 and JavaScript.
-- 🎯 Goals: Learn a lot about programming and develop my ideas.
-- 💻 Part of the NativeSeat Team.  <img src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif" width="13" /> 
+- From - Brazil, Nova Lima.
+- Programming world since 2020.
+- Learning Css3, Html5 and JavaScript.
+- Part of the NativeSeat Team.  <img src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif" width="13" /> 
 
 ## I code with
 
